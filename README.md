@@ -75,13 +75,13 @@ cd EDA-and-Classification-Pipeline
 
 3. **ScaleorNormalizeData.ipynb**:
    - Scale and normalize features to ensure compatibility with ML models.
+  
+4. **DataforAlgorithms.ipynb**:
+   - Prepares the dataset tailored for various ML algorithms.
 
 4. **Models.ipynb**:
    - Train and evaluate classification models (Logistic Regression, SVM, and KNN).
    - Compare model performance using metrics and visualizations.
-
-5. **DataforAlgorithms.ipynb**:
-   - Prepares the dataset tailored for various ML algorithms.
 
 ---
 
