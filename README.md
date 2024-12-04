@@ -1,7 +1,3 @@
-Here's a professional and concise **README.md** for your repository:
-
----
-
 # **EDA and Classification Pipeline**
 
 This repository contains a structured pipeline for Exploratory Data Analysis (EDA), data preprocessing, feature encoding, scaling/normalization, and building classification models using Logistic Regression, SVM, and KNN. The repository is designed for binary classification tasks and is adaptable to various datasets.
@@ -53,17 +49,12 @@ This repository contains a structured pipeline for Exploratory Data Analysis (ED
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/EDA-and-Classification-Pipeline.git
+git clone https://github.com/ManaSaleh/EDA-and-Classification-Pipeline.git
 cd EDA-and-Classification-Pipeline
 ```
 
-### **2. Install Required Libraries**
-Make sure to install the required Python libraries using:
-```bash
-pip install -r requirements.txt
-```
 
-### **3. Run the Notebooks**
+### **2. Run the Notebooks**
 - Use Jupyter Notebook or Jupyter Lab to run the `.ipynb` files.
 - Start with **EDA-ML.ipynb** to explore the dataset.
 - Follow up with other notebooks in sequence:
@@ -109,15 +100,7 @@ pip install -r requirements.txt
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## **Acknowledgements**
 - [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Seaborn Visualization Library](https://seaborn.pydata.org/)
-
 ---
-
-Feel free to customize the **repository URL**, **requirements.txt** file, or any specific sections based on your preferences! 🚀
