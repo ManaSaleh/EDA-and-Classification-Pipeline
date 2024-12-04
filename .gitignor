@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints
+
+# Ignore VS Code or Jupyter's virtual documents
+**/.virtual_documents/
+
+# Ignore hidden files or directories
+.*
+
